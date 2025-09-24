@@ -10,7 +10,7 @@ api_hash = 'ff8451462d91861a13ffd8a6bb72aa8b'
 
 source_channel = -1002850581379
 target_channel = -1003175105367
-message_ids = list(range(7, 20))  # test small first
+message_ids = list(range(7, 1600))  # test small first
 DOWNLOAD_FOLDER = "downloads"
 
 os.makedirs(DOWNLOAD_FOLDER, exist_ok=True)
